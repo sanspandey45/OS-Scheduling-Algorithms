@@ -75,7 +75,6 @@ int main(int argc, char *argv[])
             }
 
             // If neither dot nor digit, it will skip the line entirely
-
         }
 
         // At this point, all the data is stored in memory.
